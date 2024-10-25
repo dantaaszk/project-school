@@ -1,0 +1,12 @@
+@keyframes animationMobileImage {
+    from {
+        position: absolute;
+        top: 100px;
+
+    }
+
+    to {
+        position: absolute;
+        top: 20px;
+    }
+}
